@@ -1,5 +1,5 @@
 discord.py==1.7.3
-git+https://github.com/dolfies/discord.py-self
+discord.py-self
 requests
 aiohttp
 pytz
